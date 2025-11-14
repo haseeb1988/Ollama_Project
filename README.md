@@ -1,5 +1,5 @@
 # Ollama_Project
-Grocery List Categorizer with Ollama# 🛒 LLM-Powered Grocery List Categorizer
+🛒 LLM-Powered Grocery List Categorizer
 
 ## 🌟 Overview
 
