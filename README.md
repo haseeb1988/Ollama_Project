@@ -34,7 +34,7 @@ To run this script, you must have the following installed and set up:
     ```bash
     pip install ollama
     ```
-
+ visit website to learn more about ollama: https://github.com/ollama/ollama/blob/main/docs/api.md
 ## 📖 Usage
 
 ### 1. Set Up Files
